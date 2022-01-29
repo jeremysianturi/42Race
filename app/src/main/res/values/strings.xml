@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">fortytworace</string>
+    <string name="image_description">Image</string>
+    <string name="search">Search</string>
+    <string name="txt_login">Login</string>
+    <string name="input_api_key">Input Your Api Key</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_api_key">Api Key</string>
+    <string name="create_your_api_key">Create your api key</string>
+    <string name="ERROR_FIELD_REQUIRED">Field Tidak Boleh Kosong</string>
+    <string name="txt_all_spinner">Search By: All Categories</string>
+    <string name="txt_all_spinner_sorting">Sorting By: Rating</string>
+    <string name="tv_addcontent">Add Content</string>
+    <string name="label_logout">Log out</string>
+    <string name="msg_logout">Please login login again</string>
+    <string name="label_ok">OK</string>
+    <string name="tv_fortytwo">Forty two Race</string>
+    <string name="tv_local_businesses">Local Businesses</string>
+    <string name="question_mark">WHAAATTTTTTTTT</string>
+</resources>
